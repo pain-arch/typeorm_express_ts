@@ -1,0 +1,68 @@
+/node_modules
+/dist
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the development server
+
+
+```bash
+
+npm start
+```
+
+### 4. Open the browser and navigate to `http://localhost:3000/`
+
+### 5. Build the project
+
+```bash
+npm run build
+```
+
+### 6. Run the project
+
+```bash
+npm run start
+```
+
+### 7. Run the tests
+
+```bash
+npm run test
+```
+
+### 8. Run the tests with coverage
+
+```bash
+npm run test:coverage
+```
+
+### 9. Run the tests in watch mode
+
+
+```bash
+npm run test:watch
+```
+
+### 10. Run the tests with coverage in watch mode
+
+```bash
+npm run test:watch:coverage
+```
+
+### 11. Run the linter
+
+```bash
+npm run lint
+```
+
+### 12. Run the linter in fix mode
+
+```bash
+npm run lint:fix
+```
